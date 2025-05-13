@@ -1,11 +1,11 @@
-# Decentralized Agricultural Platform
+# Decentralized Aggregating Platform for agricultural raw materials.
 
 ## Author
  ```bash
    https://github.com/Daniel-Musunza
    ```
 
-This project facilitates decentralized land image upload and sharing on the blockchain using Solidity for the smart contract and React for the front-end interface. It enables users to securely upload images of land to IPFS (InterPlanetary File System) and share access with specified users through smart contract functionality.
+This project facilitates decentralized land image leasing, aggregating of agricultural raw materials on the blockchain using Solidity for the smart contract and React for the front-end interface. It enables users to securely upload images of land to IPFS (InterPlanetary File System) and share access with specified users through smart contract functionality.
 
 
 ## Features
@@ -85,4 +85,6 @@ Once the setup and configuration are complete, follow these steps to utilize the
    - Use the "Get Data" button to access other users' images. Input the user's address in the designated box, but remember, you can only access their images if they've granted you access through the smart contract. Otherwise, it will throw an error saying "You don't have access".
 
 These steps will ensure smooth navigation and utilization of the system while maintaining access control and avoiding potential errors.
-
+4.**Investors section.**
+(This is only the explanation)
+Investors who want to expand their portfolio will be able to invest and collect their returns through smart contracts.
